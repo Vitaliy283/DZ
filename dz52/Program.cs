@@ -38,5 +38,5 @@ for (int k = 0; k < arr.GetLength(1) ; k++)
     {
         prod += arr[q, k];
     } 
-    Console.WriteLine("Среднее арифметическое {0} столбца = {1}", k + 1, prod / arr.GetLength(0));
+    Console.WriteLine("Среднее арифметическое {0} столбца = {1}", k + 1, Math.Round(prod / arr.GetLength(0), 2));
 }
