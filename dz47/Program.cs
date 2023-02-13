@@ -13,7 +13,7 @@ for (int i = 0; i < arr.GetLength(0); i++)
 {
     for (int z = 0; z < arr.GetLength(1); z++)
     {
-       arr[i, z] = Convert.ToDouble(new Random().Next(-100, 101)) / 10;
+       arr[i, z] = Math.Round((new Random().NextDouble() * 10), 2);
     }
 }
 PrintArr(arr);
