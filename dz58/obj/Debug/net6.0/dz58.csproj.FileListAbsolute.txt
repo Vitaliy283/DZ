@@ -1,0 +1,15 @@
+E:\new\DzNew\dz58\obj\Debug\net6.0\dz58.csproj.AssemblyReference.cache
+E:\new\DzNew\dz58\obj\Debug\net6.0\dz58.GeneratedMSBuildEditorConfig.editorconfig
+E:\new\DzNew\dz58\obj\Debug\net6.0\dz58.AssemblyInfoInputs.cache
+E:\new\DzNew\dz58\obj\Debug\net6.0\dz58.AssemblyInfo.cs
+E:\new\DzNew\dz58\obj\Debug\net6.0\dz58.csproj.CoreCompileInputs.cache
+E:\new\DzNew\dz58\bin\Debug\net6.0\dz58.exe
+E:\new\DzNew\dz58\bin\Debug\net6.0\dz58.deps.json
+E:\new\DzNew\dz58\bin\Debug\net6.0\dz58.runtimeconfig.json
+E:\new\DzNew\dz58\bin\Debug\net6.0\dz58.dll
+E:\new\DzNew\dz58\bin\Debug\net6.0\dz58.pdb
+E:\new\DzNew\dz58\obj\Debug\net6.0\dz58.dll
+E:\new\DzNew\dz58\obj\Debug\net6.0\refint\dz58.dll
+E:\new\DzNew\dz58\obj\Debug\net6.0\dz58.pdb
+E:\new\DzNew\dz58\obj\Debug\net6.0\dz58.genruntimeconfig.cache
+E:\new\DzNew\dz58\obj\Debug\net6.0\ref\dz58.dll
