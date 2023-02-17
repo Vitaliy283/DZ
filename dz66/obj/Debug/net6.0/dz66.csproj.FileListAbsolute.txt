@@ -1,0 +1,15 @@
+E:\new\DzNew\dz66\bin\Debug\net6.0\dz66.exe
+E:\new\DzNew\dz66\bin\Debug\net6.0\dz66.deps.json
+E:\new\DzNew\dz66\bin\Debug\net6.0\dz66.runtimeconfig.json
+E:\new\DzNew\dz66\bin\Debug\net6.0\dz66.dll
+E:\new\DzNew\dz66\bin\Debug\net6.0\dz66.pdb
+E:\new\DzNew\dz66\obj\Debug\net6.0\dz66.csproj.AssemblyReference.cache
+E:\new\DzNew\dz66\obj\Debug\net6.0\dz66.GeneratedMSBuildEditorConfig.editorconfig
+E:\new\DzNew\dz66\obj\Debug\net6.0\dz66.AssemblyInfoInputs.cache
+E:\new\DzNew\dz66\obj\Debug\net6.0\dz66.AssemblyInfo.cs
+E:\new\DzNew\dz66\obj\Debug\net6.0\dz66.csproj.CoreCompileInputs.cache
+E:\new\DzNew\dz66\obj\Debug\net6.0\dz66.dll
+E:\new\DzNew\dz66\obj\Debug\net6.0\refint\dz66.dll
+E:\new\DzNew\dz66\obj\Debug\net6.0\dz66.pdb
+E:\new\DzNew\dz66\obj\Debug\net6.0\dz66.genruntimeconfig.cache
+E:\new\DzNew\dz66\obj\Debug\net6.0\ref\dz66.dll
